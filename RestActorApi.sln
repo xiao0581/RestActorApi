@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestActorApi", "RestActorApi\RestActorApi.csproj", "{A171513F-1F82-48EB-980D-38BD527ED06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A171513F-1F82-48EB-980D-38BD527ED06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A171513F-1F82-48EB-980D-38BD527ED06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A171513F-1F82-48EB-980D-38BD527ED06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A171513F-1F82-48EB-980D-38BD527ED06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4919A347-8BD9-45B1-B60B-E52E0A099A97}
+	EndGlobalSection
+EndGlobal
